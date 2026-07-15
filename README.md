@@ -208,27 +208,7 @@ npm install
 npm run dev
 ```
 
----
-
-# 🌍 Deployment
-
-## Frontend
-
-Vercel
-
-https://loan-default-prediction-system-three.vercel.app
-
-## Backend
-
-Render
-
-https://loan-default-prediction-system-jl1w.onrender.com
-
----
-
-
-
----
+-
 
 # ⭐ If you like this project
 
