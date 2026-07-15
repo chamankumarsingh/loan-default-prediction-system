@@ -6,15 +6,13 @@ An AI-powered Loan Default Prediction System built using **FastAPI, React, TypeS
 
 # 🚀 Live Demo
 
-### 🌐 Frontend
-https://loan-default-prediction-system-three.vercel.app
+## Live Demo
 
-### ⚙️ Backend API
-https://loan-default-prediction-system-jl1w.onrender.com
+**Frontend**
+https://loan-default-prediction-system-gr480u8ad.vercel.app/login
 
-### 📖 API Documentation
+**Backend API**
 https://loan-default-prediction-system-jl1w.onrender.com/docs
-
 ---
 
 # ✨ Features
