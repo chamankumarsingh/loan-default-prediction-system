@@ -12,3 +12,4 @@ joblib
 openpyxl
 pytest
 python-multipart
+email-validator
