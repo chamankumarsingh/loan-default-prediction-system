@@ -11,8 +11,11 @@ from reportlab.lib import colors
 from sqlalchemy.orm import Session
 from ..database.models import Customer, Loan, Prediction
 
-REPORTS_DIR = '/Users/jaskiratsingh/.gemini/antigravity/scratch/loan_default_prediction_system/reports'
-os.makedirs(REPORTS_DIR, exist_ok=True)
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+REPORTS_DIR = BASE_DIR / "reports"
+REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
 # ----------------- CSV GENERATION -----------------
 def generate_portfolio_csv(db: Session) -> io.BytesIO:

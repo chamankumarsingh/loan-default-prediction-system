@@ -5,10 +5,12 @@ import pandas as pd
 import numpy as np
 from typing import Dict, Any, Tuple
 
-MODEL_DIR = '/Users/jaskiratsingh/.gemini/antigravity/scratch/loan_default_prediction_system/model'
-PIPELINE_PATH = os.path.join(MODEL_DIR, 'loan_model_pipeline.joblib')
-METADATA_PATH = os.path.join(MODEL_DIR, 'model_metadata.json')
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parents[3]
+MODEL_DIR = BASE_DIR / "model"
+PIPELINE_PATH = MODEL_DIR / "loan_model_pipeline.joblib"
+METADATA_PATH = MODEL_DIR / "model_metadata.json"
 class LoanPredictor:
     def __init__(self):
         self.pipeline = None
