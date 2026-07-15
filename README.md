@@ -9,8 +9,7 @@ An AI-powered Loan Default Prediction System built using **FastAPI, React, TypeS
 ## Live Demo
 
 **Frontend**
-https://loan-default-prediction-system-gr480u8ad.vercel.app/login
-
+https://loan-default-predict-git-09d25b-chaman-kumars-projects-8aee52fe.vercel.app/
 **Backend API**
 https://loan-default-prediction-system-jl1w.onrender.com/docs
 ---
