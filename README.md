@@ -228,16 +228,7 @@ https://loan-default-prediction-system-jl1w.onrender.com
 
 ---
 
-# 📷 Screenshots
 
-Add screenshots here:
-
-- Login Page
-- Dashboard
-- Prediction Form
-- Prediction Result
-- Reports
-- Customer Management
 
 ---
 
