@@ -241,18 +241,6 @@ Add screenshots here:
 
 ---
 
-# 👨‍💻 Author
-
-**Jaskirat Singh**
-
-LinkedIn:
-(Add your LinkedIn)
-
-GitHub:
-https://github.com/chamankumarsingh/loan-default-prediction-system
-
----
-
 # ⭐ If you like this project
 
 Please give the repository a ⭐ on GitHub.
